@@ -53,6 +53,6 @@ def main():
     elif short_AA.get(amino):
         print("You have entered a Acid from the Amino Acid Table, The Amino Acid,", amino, "translates to", short_AA.get(amino))
     else:
-        print("Unknown"
+        print("Unknown")
 
 main()
